@@ -1,0 +1,105 @@
+﻿.navbar-right li {
+    padding: 10px;
+}
+
+.colorgraph {
+    height: 5px;
+    border-top: 0;
+    background: #c4e17f;
+    border-radius: 5px;
+    background-image: -webkit-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: -moz-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: -o-linear-gradient(left, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+    background-image: linear-gradient(to right, #c4e17f, #c4e17f 12.5%, #f7fdca 12.5%, #f7fdca 25%, #fecf71 25%, #fecf71 37.5%, #f0776c 37.5%, #f0776c 50%, #db9dbe 50%, #db9dbe 62.5%, #c49cde 62.5%, #c49cde 75%, #669ae1 75%, #669ae1 87.5%, #62c2e4 87.5%, #62c2e4);
+}
+.back{
+  /*background-image: url("http://bossierpress.com/wp-content/uploads/2016/09/BLOOD-DONATION.jpg") ;*/
+  background-image:url("http://www.imedicalapps.com/wp-content/uploads/2014/09/blood-donation.jpg");
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+}
+
+.col-lg-8 {
+    margin-left: 0px !important;
+    padding: 0;
+    float: left !important;
+    width: 40%;
+    z-index: 5;
+}
+
+.GSel {
+    padding-bottom: 10px;
+}
+
+.PageHead {
+    /*background-color:burlywood;*/
+    color: blue !important;
+    /*font-family:Algerian;*/
+    font-size: 25px !important;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+.Hilight{
+    color:white !important;
+}
+.Hilight1{
+    color:#41459D !important;
+}
+.GreenHead {
+  background-color: transparent !important;
+}
+
+/*#slideShow{
+	
+	width:2048px;
+	height:600px;
+	
+}
+#slideps{
+    display:block;
+    position:absolute;
+    padding:0;
+    margin-left:150px;
+    z-index:10;
+    
+}*/
+
+.aside {
+    margin-left: 35% !important;
+}
+
+.Content ul {
+    list-style-type: none;
+}
+
+.Content {
+    position: absolute;
+    top: 0;
+    right: 20%;
+}
+
+.request ul {
+    list-style-type: none;
+    display: inline;
+}
+
+.request {
+    width: 20px;
+    position: absolute;
+    top: 0;
+    right: 33%;
+}
+.ReqContent{
+    position:absolute;
+    top:40%;
+}
+#logout{
+    top: 10%;
+    right: 10%;
+    position: absolute;
+}
+.headclass{
+    /*background-color:blue !important;*/
+    color:white !important;
+    font-size:25px;
+}
